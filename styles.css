@@ -1,0 +1,77 @@
+.navbar-brand {
+   color:orangered !important;
+  
+   margin-right:5em !important;
+}
+.container-fluid{
+    padding:0.5em !important;
+    background-color: white !important;
+    width:70% !important;
+}
+.nav-link{
+    color: black !important;
+}
+.btn2{
+    background-color:orangered !important;
+    color: white !important;
+    border:0;
+    border-radius:5px;
+}
+.firstpart{
+    background-attachment: scroll;
+    background-image: url(./assets/bigdot.png);
+    background-repeat: no-repeat;
+    background-position: 0;
+    background-size: contain;
+}
+.lead{
+    color: rgb(122, 122, 122) !important;
+}
+.def{
+    font-size:1.5em;
+    color: black;
+}
+.feature_head{
+    color:rgba(53, 53, 53, 0.918);
+    text-align: center;
+}
+.explore{
+    font-weight: bold;
+    font-size: 3em;
+}
+.sky{
+    font-size: 1em;
+}
+.bi{
+    border-radius: 50%;
+    background-color: rgb(240, 171, 147);
+}
+.feature_subhead {
+    font-size:1.5rem;
+    color:rgba(53, 53, 53, 0.918);
+}
+.feature_subdef{
+    color: rgb(122, 122, 122);
+
+}
+.thirdpart_def{
+    color: rgb(122, 122, 122);
+    font-size:1.5rem;
+}
+.thirdpart_heading{
+    color:rgba(53, 53, 53, 0.918) !important;
+}
+.forthpart_def{
+    color: rgb(122, 122, 122);
+    font-size:2.5rem;
+    font-weight: bold;
+}
+.fifth_def{
+    color: white !important;
+}
+.tenth_head{
+    color:rgba(53, 53, 53, 0.918) !important;
+}
+.tenth_def{
+    color: rgb(122, 122, 122);
+}
